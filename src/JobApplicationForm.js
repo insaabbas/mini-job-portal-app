@@ -12,7 +12,7 @@ import {
   Col,
   Alert
 } from 'react-bootstrap';
-// ✅ Phone Number Validation Function
+// Phone Number Validation Function
 const isValidPhone = (phone) => {
   const phoneRegex = /^[0-9]{11}$/; // Format: 03001234567
   return phoneRegex.test(phone);

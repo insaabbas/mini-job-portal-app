@@ -2,7 +2,7 @@
   "name": "mini-job-portal-app",
   "version": "0.1.0",
   "private": true,
-  "author": "Zainab Saleem",
+  "author": "Insa Abbas",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
